@@ -1,0 +1,13 @@
+<div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">Home</a></li>
+        <li class="nav-about {% if page.current == 'sobre' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}sobre">Sobre</a></li>
+        <li class="nav-author {% if page.current == 'author' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/jamesrmoro">Autor</a></li>
+    </ul>
+    <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Inscreva-se</a>
+</div>
+<span class="nav-cover"></span>
