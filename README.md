@@ -20,5 +20,5 @@ sudo apt-get install jekyll
 
 ## Versão em produção
 
-[https://jamesrmoro.github.io](https://jamesrmoro.github.io){:target="_blank"} - James R. Moro
+[https://jamesrmoro.github.io](https://jamesrmoro.github.io) - James R. Moro
 
