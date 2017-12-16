@@ -196,6 +196,12 @@ body {
     text-rendering: geometricPrecision;
 }
 
+body pre[class*="language-"] {
+
+    margin: 2em 0;
+
+}
+
 ::-moz-selection {
     background: #D6EDFF;
 }
@@ -244,12 +250,18 @@ h6 {
 }
 
 a {
-    color: #4A4A4A;
+    color: #21759b;
     transition: color 0.3s ease;
+    text-decoration: none;
+}
+
+a:visited {
+
+    color: #4ca6cf;
 }
 
 a:hover {
-    color: #111;
+    color: #d54e21;
 }
 
 p, ul, ol, dl {
@@ -360,6 +372,7 @@ pre {
     overflow: auto;
     background: #F7FAFB;
     border-radius: 3px;
+    line-height: 25px;
 }
 
 pre code, pre tt {
@@ -785,6 +798,7 @@ body.nav-opened .nav {
 
     display: block;
     font-size: 1em;
+    color: #fff;
 }
 
 .blog-logo .slogan {
@@ -792,6 +806,12 @@ body.nav-opened .nav {
     display: block;
     font-size: 0.5em;
     text-shadow: 1px 1px 7px rgba(0, 0, 0, 0.55);
+    color: #fff;
+}
+
+.blog-logo .slogan:hover {
+
+    color: #fff;
 }
 
 .blog-logo img {
@@ -897,6 +917,7 @@ body.nav-opened .nav {
     color: #fff;
 }
 
+
 .page-description {
     margin: 0;
     font-size: 2rem;
@@ -969,8 +990,13 @@ body:not(.post-template) .post-title {
 
 .post-title a {
     text-decoration: none;
+    color: #4A4A4A;
 }
 
+.post-title a:hover {
+
+    color: #111;
+}
 .post-excerpt p {
     margin: 0;
     font-size: 0.9em;

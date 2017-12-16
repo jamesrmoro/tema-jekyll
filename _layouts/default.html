@@ -20,9 +20,8 @@
           href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/syntax.css" />
 
-    <!-- [[! highlight.js ]] -->
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/styles/default.min.css">
-    <style>.hljs { background: none; }</style>
+    <!-- [[! prism ]] -->
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/prism.css">
 
     <!-- [[! Ghost outputs important style and meta data with this tag ]] -->
     {% include head.html %}
@@ -42,9 +41,9 @@
           <section class="poweredby">Criado com <a href="https://jekyllrb.com/" target="_blank">Jekyll</a></section>
         </footer>
     </div>
-    <!-- [[! highlight.js ]] -->
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
+    <!-- [[! prism ]] -->
+    <script src="{{ site.baseurl }}assets/js/prism.js"></script>
+
     <!-- [[! Ghost outputs important scripts and data with this tag ]] -->
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <!-- [[! The main JavaScript file for Casper ]] -->
