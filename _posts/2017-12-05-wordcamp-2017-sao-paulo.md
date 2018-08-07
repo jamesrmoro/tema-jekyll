@@ -5,7 +5,7 @@ title:  WordCamp São Paulo 2017 | O maior evento oficial sobre WordPress
 date:   2017-12-05 15:04:00
 tags: wordpress
 subclass: 'post tag-meta'
-categories: 'wordpress'
+categories: 'jamesrmoro wordpress'
 navigation: True
 description: No dia 02 de dezembro a equipe da Soma Dev esteve presente no 6º encontro sobre Wordpress, o Wordcamp 2017.
 logo: ''

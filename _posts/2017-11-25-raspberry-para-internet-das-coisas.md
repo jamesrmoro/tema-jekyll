@@ -5,7 +5,7 @@ title:  Raspberry e a Internet das Coisas
 date:   2017-11-25 15:04:00
 tags: iot raspberry
 subclass: 'post tag-meta'
-categories: 'tecnologia'
+categories: 'jamesrmoro tecnologia'
 navigation: True
 description: Com muita criatividade você poderá fazer coisas incríveis com este mini-computador.
 logo: ''

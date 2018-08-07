@@ -1,3 +1,11 @@
+.foto img {
+    width: 60%;
+    height: auto;
+    box-shadow: 2px 2px 20px grey;
+    margin-bottom: 30px;
+}
+
+
 /* ==========================================================================
    Table of Contents
    ========================================================================== */
@@ -244,12 +252,13 @@ h6 {
 }
 
 a {
-    color: #4A4A4A;
+    color: #337ab7;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #111;
+    color: #23527c;
+    text-decoration: none;
 }
 
 p, ul, ol, dl {
@@ -753,7 +762,7 @@ body.nav-opened .nav {
     bottom: 0;
     left: 50%;
     margin-left: -75px;
-    background: radial-gradient(ellipse at center,  rgba(0,0,0,0.15) 0%,rgba(0,0,0,0) 70%,rgba(0,0,0,0) 100%);
+    /*background: radial-gradient(ellipse at center,  rgba(0,0,0,0.15) 0%,rgba(0,0,0,0) 70%,rgba(0,0,0,0) 100%);*/
 }
 
 /* Hide when there's no cover image or on page2+ */

@@ -8,13 +8,13 @@ language: 'en-uk'
 
 # Website info
 name: 'Publicitário Developer'
-description: "Um cara formado em Humanas que desafia-se diariamente em Exatas"
+description: " ̶U̶m̶ ̶c̶a̶r̶a̶ ̶f̶o̶r̶m̶a̶d̶o̶ ̶e̶m̶ ̶H̶u̶m̶a̶n̶a̶s̶ ̶q̶u̶e̶ ̶d̶e̶s̶a̶f̶i̶a̶-̶s̶e̶ ̶d̶i̶a̶r̶i̶a̶m̶e̶n̶t̶e̶ ̶e̶m̶ ̶E̶x̶a̶t̶a̶s̶ (Agora cursando Engenharia da Computação)"
 
 # Author's info
 author: 'James R. Moro'
 # edit 'categories' in the front matter of every post to match this username
 nickname: jamesrmoro
-bio: 'Formado em Publicidade e Propaganda, resolveu fazer seu pé de meia na internet com foco em Wordpress e CSS. Além de ser um programador Front-End, curte cozinhar, desenhar e correr para ganhar medalhas para sua coleção.'
+bio: 'Formado em Publicidade e Propaganda, resolveu fazer seu pé de meia na internet com foco em Wordpress e CSS. Além de ser um programador Front-End, curte cozinhar, desenhar e correr para ganhar medalhas para sua coleção. Estudante do 1º ano do Curso de Engenharia da Computação'
 location: 'Jacareí, Brasil'
 url: 'https://jamesrmoro.github.io/'
 image: 'assets/images/jamesrmoro.jpg'
