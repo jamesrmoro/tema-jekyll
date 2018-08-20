@@ -17,6 +17,8 @@ Com o plugin [Advanced Custom Fields – ACF](https://wordpress.org/plugins/adva
 
 Hoje vou mostrar como é fácil trabalhar com este plugin quando precisar usar em imagens.
 
+<script src="https://gist.github.com/jamesrmoro/68dbcfd693dc9f22ceab776b3c6ba256.js"></script>
+
 ##Tipos de campos adicionais que você pode configurar
 
 Com esta configuração você pode definir o tipo de retorno dos dados.
