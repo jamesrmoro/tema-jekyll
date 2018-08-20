@@ -60,7 +60,7 @@ No exemplo abaixo, podemos observar o uso da opção com o retorno ID. O código
 <span style='color:#5f5035; background:#ffffe8; '>?></span>
 </pre>
 
-##Exemplo de uso personalizado (valor retornado do tipo Objeti)
+##Exemplo de uso personalizado (valor retornado do tipo Objeto)
 
 No exemplo abaixo, podemos observar o uso da opção com o retorno de Objeto, mas desta vez vamos pegar o tamanho da imagem que foi feito crop.
 
