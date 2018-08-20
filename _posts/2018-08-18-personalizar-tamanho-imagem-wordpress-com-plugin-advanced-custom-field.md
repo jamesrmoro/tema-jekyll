@@ -17,8 +17,6 @@ Com o plugin [Advanced Custom Fields – ACF](https://wordpress.org/plugins/adva
 
 Hoje vou mostrar como é fácil trabalhar com este plugin quando precisar usar em imagens.
 
-<script src="https://gist.github.com/jamesrmoro/68dbcfd693dc9f22ceab776b3c6ba256.js"></script>
-
 ##Tipos de campos adicionais que você pode configurar
 
 Com esta configuração você pode definir o tipo de retorno dos dados.
@@ -62,9 +60,9 @@ No exemplo abaixo, podemos observar o uso da opção com o retorno ID. O código
 <span style='color:#5f5035; background:#ffffe8; '>?></span>
 </pre>
 
-##Exemplo de uso personalizado (valor retornado do tipo ID)
+##Exemplo de uso personalizado (valor retornado do tipo Objeti)
 
-No exemplo abaixo, podemos observar o uso da opção com o retorno de ID, mas desta vez vamos pegar o tamanho da imagem que foi feito crop.
+No exemplo abaixo, podemos observar o uso da opção com o retorno de Objeto, mas desta vez vamos pegar o tamanho da imagem que foi feito crop.
 
 O tamanho do crop da imagem foi dado o nome de slider. O código abaixo vai retornar a url com crop na tag img.
 
