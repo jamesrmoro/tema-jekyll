@@ -16,14 +16,14 @@ author: 'James R. Moro'
 nickname: jamesrmoro
 bio: 'Formado em Publicidade e Propaganda, resolveu fazer seu pé de meia na internet com foco em Wordpress e CSS. Além de ser um programador Front-End, curte cozinhar, desenhar e correr para ganhar medalhas para sua coleção. Estudante do 1º ano do Curso de Engenharia da Computação'
 location: 'Jacareí, Brasil'
-url: 'https://jamesrmoro.github.io/'
+url: 'https://jamesrmoro.github.io'
 image: 'assets/images/jamesrmoro.jpg'
 
 short_url: 'jamesrmoro.github.io'
 google_analytics: UA-61679234-1
 disqus: jamesrmoro
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: "/"
+baseurl: ""
 
 # Permalinks
 permalink: /:title
@@ -32,7 +32,7 @@ permalink: /:title
 
 
 # gems and other configs
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap]
 exclude: [vendor]
 
 # Additional settings available on the front-matter
