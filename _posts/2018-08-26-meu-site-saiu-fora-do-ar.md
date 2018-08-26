@@ -7,7 +7,7 @@ tags: segurança
 subclass: 'post tag-meta'
 categories: 'jamesrmoro'
 navigation: True
-description: Este é o meu planejamento para 2018. Um registro que vai além de uma promessa qualquer.
+description: Evite surpresas desagradáveis e não deixe seu site sair fora do ar!
 logo: ''
 ---
 
@@ -71,7 +71,7 @@ Mesmo assim, caso você esqueça, a maioria das hospedagens possui um suporte pa
 
 Você pode monitorar seu site a cada 5 minutos e saber o que acontece com ele de uma maneira muito inteligente. O [UptimeRobot](https://uptimerobot.com "UptimeRobot"){:target="_blank"} avisa quando o site ficar inativo e informa quais os códigos de erros gerados naquele momento. 
 
-Essa ferramenta é útil para desenvolvedores e clientes que desejam ter uma prévia do que pode estar ocasionando os problemas.
+Essa ferramenta é útil para desenvolvedores e clientes que desejam ter uma prévia do que pode estar ocasionando os problemas. Isso permite você identificar o problema rapidamente quando você adota a metodologia de monitoramento constante.
 
 ##Como evitar que seu site fique fora doar? 
 
